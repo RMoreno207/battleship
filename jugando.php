@@ -45,7 +45,7 @@ if (isset($_POST)) {
         }
     }
     if ($shipsCounter2['turno'] == 70) {
-        echo "<h1>You Loose!!</h1>";
+        echo "<h1>You Lose!!</h1>";
         foreach ($gridColors2 as $y => $valor) {
             for ($x = 0; $x <= 10; $x++) {
                 $gridColors2[$y][$x] = "Red";
