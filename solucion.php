@@ -4,7 +4,7 @@ if (isset($_POST)) {
     $grid2 = $dataPosted;
 
     //Tablero 2
-    echo "<h1>You Loose!!!</h1>";
+    echo "<h1>You Lose!!!</h1>";
     echo "<h3>La proxima vez seguro que ganas!</h3>";
     echo "<table border=1 width=700px height=700px align=center>";
     echo "<tr>";
