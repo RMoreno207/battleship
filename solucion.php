@@ -33,7 +33,7 @@ if (isset($_POST)) {
         echo "</tr>";
     }
     echo "</table><br/><hr/>
-    <a href='./inicio.php'><button style='width:100%; height:50px'>Comenzar de nuevo</button></a>";
+    <a href='./index.php'><button style='width:100%; height:50px'>Comenzar de nuevo</button></a>";
     echo "<br/><br/><a href='../index.html'>Volver</a>";
 }
 ?>
