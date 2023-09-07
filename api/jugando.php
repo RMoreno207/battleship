@@ -104,7 +104,6 @@ if (isset($_POST)) {
 
     echo "<p>Impactos a los barcos restantes y más información</p>";
     echo '<pre>', print_r($shipsCounter2), '</pre>';
-    echo " <br/><a href='../index.html'>Volver</a>";
 
 }
 ?>

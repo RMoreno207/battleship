@@ -387,7 +387,6 @@ http://www.w3.org/TR/html4/loose.dtd">
      ?>
      <!-- acaba el codigo PHP -->
      <br />
-     <a href="../index.html">Volver</a>
 </body>
 
 </html>
